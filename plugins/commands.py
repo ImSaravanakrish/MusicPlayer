@@ -95,8 +95,8 @@ async def start(client, message):
 async def show_help(client, message):
     buttons = [
         [
-        InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/subin_works'),
-        InlineKeyboardButton('🧩 Source', url='https://github.com/subinps/MusicPlayer'),
+        InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/TamilBots'),
+        InlineKeyboardButton('🧩 Source', url='https://github.com/imsaravanakrish'),
     ]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
